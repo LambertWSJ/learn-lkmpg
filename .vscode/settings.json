@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "list.h": "c",
+        "hashtable.h": "c",
+        "types.h": "c",
+        "rculist.h": "c",
+        "rcupdate.h": "c",
+        "compiler.h": "c",
+        "compiler_types.h": "c"
+    }
+}
